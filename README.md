@@ -53,8 +53,4 @@ Sesión Magistral abordando los siguientes temas:
 
 ### Referencias 
 
-<a href="https://www.youtube.com/playlist?list=PLUenpfvlyoa0PB6_kqJ9WU7m6i6z1RhfJ" target="_blank">- CS 5804: Introduction to Artificial Intelligence </a>
-
-<a href="https://www.freecodecamp.org/" target="_blank">- FreeCodeCamp </a>
-
-<a href="https://mml-book.github.io/book/mml-book.pdf" target="_blank">- Mathematics for Machine Learning by Deisenroth, Marc Peter and Faisal, A Aldo and Ong, Cheng Soo</a>
+<a href="https://drive.google.com/file/d/1zvqFk-JL1OdHUUeEhZadETo8YEwTIe-_/view?usp=sharing" target="_blank">- Practical Statistics for Data Scientists, Peter Bruce, Andrew Bruce & Peter Gedeck </a>
