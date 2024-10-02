@@ -89,7 +89,7 @@ summary(Modelo)
 
 # Los coeficientes de la ecuación de regresión
 coef(Modelo)
-#Defectuosos=??1*Temperatura+??2*Velocidad+??3*Tension
+#Porcentaje-Defectuosos=B1*Temperatura+B2*Velocidad+B3*Tension
 
 
 ## Análisis de la adecuación del modelo
