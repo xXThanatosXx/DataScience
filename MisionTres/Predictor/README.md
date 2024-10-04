@@ -19,13 +19,16 @@ install.packages(c("caret", "randomForest", "ggplot2"))
 1. Cargar paquetes y datos
 
 # Cargar los paquetes necesarios
+
+```r
 library(caret)
 library(randomForest)
 library(ggplot2)
-
+```
 # Cargar el conjunto de datos iris
+```r
 data(iris)
-
+```
 2. Dividir los datos
 ```r
 set.seed(123)
