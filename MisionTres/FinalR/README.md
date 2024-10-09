@@ -1,6 +1,6 @@
 # Ejercicio de Práctica en R: Análisis de Datos de Ventas con un Dataset de Kaggle
 
-**Dataset:** [Online Retail Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-dataset)  
+**Dataset:** [Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)  
 Descárgalo y guárdalo localmente como `online_retail.csv`.
 
 ---
